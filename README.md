@@ -1,2 +1,2 @@
 # dt
-Desafio tácnico
+Desafio técnico
